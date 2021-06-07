@@ -2,19 +2,19 @@
 - Clone or download the project
 - Install require dependencies
 - Deploy the application with php artisan serve
-- by default the application is deployed as http://127.0.0.1/
+- by default the application is deployed as http://127.0.0.1:8000/
 
 ## Task 1 Obtain an API token using the /token endpoint 
--  http://127.0.0.1/token
+-  http://127.0.0.1:8000/token
                                                     
 ## Task 2 Create a page or dump that lists statistics of orders by their status registered in the system ordered from the one with the highest amount, descending.
-- http://127.0.0.1/status
+- http://127.0.0.1:8000/status
 
 ## Task 4 Dump report of total invoices and invoiced amount for month of Nov 2020
-- http://127.0.0.1/reports
+- http://127.0.0.1:8000/reports
 
 ## Task 5 Create order
-- http://127.0.0.1/orders/create
+- http://127.0.0.1:8000/orders/create
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
