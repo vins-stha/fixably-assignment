@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 4
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9273
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-10-01 14:03:52
+                )
+
+            [1] => Array
+                (
+                    [id] => 9274
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-10-01 14:14:32
+                )
+
+            [2] => Array
+                (
+                    [id] => 9275
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-01 14:23:59
+                )
+
+            [3] => Array
+                (
+                    [id] => 9276
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-01 14:27:57
+                )
+
+            [4] => Array
+                (
+                    [id] => 9277
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => X1a
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-10-01 14:33:47
+                )
+
+            [5] => Array
+                (
+                    [id] => 9278
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab Pro
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-10-01 14:47:28
+                )
+
+            [6] => Array
+                (
+                    [id] => 9279
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-10-01 14:50:41
+                )
+
+            [7] => Array
+                (
+                    [id] => 9280
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone X
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-10-01 15:02:37
+                )
+
+            [8] => Array
+                (
+                    [id] => 9281
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-01 15:06:37
+                )
+
+            [9] => Array
+                (
+                    [id] => 9282
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => X1a
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-10-01 15:19:44
+                )
+
+        )
+
+)

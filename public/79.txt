@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 79
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10023
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-10-29 16:29:07
+                )
+
+            [1] => Array
+                (
+                    [id] => 10024
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab A
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-29 16:35:17
+                )
+
+            [2] => Array
+                (
+                    [id] => 10025
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio 505
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-10-29 16:38:56
+                )
+
+            [3] => Array
+                (
+                    [id] => 10026
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => Suvi
+                    [status] => 3
+                    [created] => 2020-10-29 16:50:00
+                )
+
+            [4] => Array
+                (
+                    [id] => 10027
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio 505
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-10-29 16:52:40
+                )
+
+            [5] => Array
+                (
+                    [id] => 10028
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-29 16:59:28
+                )
+
+            [6] => Array
+                (
+                    [id] => 10029
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-10-29 17:07:17
+                )
+
+            [7] => Array
+                (
+                    [id] => 10030
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-10-29 17:13:25
+                )
+
+            [8] => Array
+                (
+                    [id] => 10031
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-29 17:19:49
+                )
+
+            [9] => Array
+                (
+                    [id] => 10032
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-10-29 17:23:11
+                )
+
+        )
+
+)

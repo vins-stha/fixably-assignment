@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 287
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 14404
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => Macbook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 15:51:27
+                )
+
+            [1] => Array
+                (
+                    [id] => 14405
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 15:58:39
+                )
+
+            [2] => Array
+                (
+                    [id] => 14406
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 16:00:00
+                )
+
+            [3] => Array
+                (
+                    [id] => 14407
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 16:00:45
+                )
+
+            [4] => Array
+                (
+                    [id] => 14408
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 16:01:35
+                )
+
+            [5] => Array
+                (
+                    [id] => 14409
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 16:02:09
+                )
+
+            [6] => Array
+                (
+                    [id] => 14410
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 16:03:04
+                )
+
+            [7] => Array
+                (
+                    [id] => 14411
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 16:06:14
+                )
+
+            [8] => Array
+                (
+                    [id] => 14412
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 16:24:27
+                )
+
+            [9] => Array
+                (
+                    [id] => 14413
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 16:24:56
+                )
+
+        )
+
+)

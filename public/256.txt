@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 256
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11793
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-25 11:29:54
+                )
+
+            [1] => Array
+                (
+                    [id] => 11794
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-25 11:43:41
+                )
+
+            [2] => Array
+                (
+                    [id] => 11795
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Nexus
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-25 11:47:59
+                )
+
+            [3] => Array
+                (
+                    [id] => 11796
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-25 11:54:31
+                )
+
+            [4] => Array
+                (
+                    [id] => 11797
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-12-25 12:02:18
+                )
+
+            [5] => Array
+                (
+                    [id] => 11798
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Z Flip 5G
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-25 12:17:47
+                )
+
+            [6] => Array
+                (
+                    [id] => 11799
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Z Flip 5G
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-25 12:19:31
+                )
+
+            [7] => Array
+                (
+                    [id] => 11800
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => X1a
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-25 12:28:37
+                )
+
+            [8] => Array
+                (
+                    [id] => 11801
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio 505
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-25 12:43:58
+                )
+
+            [9] => Array
+                (
+                    [id] => 11802
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-25 12:49:21
+                )
+
+        )
+
+)

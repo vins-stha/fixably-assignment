@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 33
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9563
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Z Flip 5G
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-10-14 17:42:21
+                )
+
+            [1] => Array
+                (
+                    [id] => 9564
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => X1a
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-14 17:49:28
+                )
+
+            [2] => Array
+                (
+                    [id] => 9565
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab A
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-10-14 17:53:00
+                )
+
+            [3] => Array
+                (
+                    [id] => 9566
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-10-15 10:30:13
+                )
+
+            [4] => Array
+                (
+                    [id] => 9567
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-10-15 12:11:34
+                )
+
+            [5] => Array
+                (
+                    [id] => 9568
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone X
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-10-15 13:02:43
+                )
+
+            [6] => Array
+                (
+                    [id] => 9569
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-10-15 13:38:08
+                )
+
+            [7] => Array
+                (
+                    [id] => 9570
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-15 14:52:09
+                )
+
+            [8] => Array
+                (
+                    [id] => 9571
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-15 16:37:24
+                )
+
+            [9] => Array
+                (
+                    [id] => 9572
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-10-15 17:13:57
+                )
+
+        )
+
+)

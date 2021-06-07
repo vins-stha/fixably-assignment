@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 107
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10303
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => X1a
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-11-06 14:30:06
+                )
+
+            [1] => Array
+                (
+                    [id] => 10304
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy S20
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-11-06 14:35:39
+                )
+
+            [2] => Array
+                (
+                    [id] => 10305
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-11-06 14:41:39
+                )
+
+            [3] => Array
+                (
+                    [id] => 10306
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => Mira
+                    [status] => 3
+                    [created] => 2020-11-06 14:46:53
+                )
+
+            [4] => Array
+                (
+                    [id] => 10307
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-11-06 14:55:11
+                )
+
+            [5] => Array
+                (
+                    [id] => 10308
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => Mira
+                    [status] => 3
+                    [created] => 2020-11-06 15:00:31
+                )
+
+            [6] => Array
+                (
+                    [id] => 10309
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone X
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-11-06 15:07:15
+                )
+
+            [7] => Array
+                (
+                    [id] => 10310
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy A21
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-11-06 15:17:18
+                )
+
+            [8] => Array
+                (
+                    [id] => 10311
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-11-06 15:23:51
+                )
+
+            [9] => Array
+                (
+                    [id] => 10312
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-11-06 15:24:56
+                )
+
+        )
+
+)

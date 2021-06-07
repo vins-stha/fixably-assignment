@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 6
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9293
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Z Flip 5G
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-01 16:47:51
+                )
+
+            [1] => Array
+                (
+                    [id] => 9294
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-01 16:50:01
+                )
+
+            [2] => Array
+                (
+                    [id] => 9295
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => R800x
+                    [technician] => Mira
+                    [status] => 3
+                    [created] => 2020-10-01 16:56:23
+                )
+
+            [3] => Array
+                (
+                    [id] => 9296
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-01 17:06:32
+                )
+
+            [4] => Array
+                (
+                    [id] => 9297
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-10-01 17:19:17
+                )
+
+            [5] => Array
+                (
+                    [id] => 9298
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-10-01 17:21:20
+                )
+
+            [6] => Array
+                (
+                    [id] => 9299
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy A21
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-10-01 17:31:41
+                )
+
+            [7] => Array
+                (
+                    [id] => 9300
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-01 17:37:42
+                )
+
+            [8] => Array
+                (
+                    [id] => 9301
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio 505
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-10-01 17:49:06
+                )
+
+            [9] => Array
+                (
+                    [id] => 9302
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio 505
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-10-01 17:52:52
+                )
+
+        )
+
+)

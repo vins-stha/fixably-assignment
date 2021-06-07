@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 76
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9993
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => PDX-201
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-10-29 13:24:01
+                )
+
+            [1] => Array
+                (
+                    [id] => 9994
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-29 13:29:28
+                )
+
+            [2] => Array
+                (
+                    [id] => 9995
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => PDX-201
+                    [technician] => Suvi
+                    [status] => 3
+                    [created] => 2020-10-29 13:34:27
+                )
+
+            [3] => Array
+                (
+                    [id] => 9996
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-29 13:40:07
+                )
+
+            [4] => Array
+                (
+                    [id] => 9997
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy S20
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-29 13:44:34
+                )
+
+            [5] => Array
+                (
+                    [id] => 9998
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-10-29 13:51:10
+                )
+
+            [6] => Array
+                (
+                    [id] => 9999
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-10-29 14:02:56
+                )
+
+            [7] => Array
+                (
+                    [id] => 10000
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-29 14:03:35
+                )
+
+            [8] => Array
+                (
+                    [id] => 10001
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-29 14:13:34
+                )
+
+            [9] => Array
+                (
+                    [id] => 10002
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-10-29 14:18:34
+                )
+
+        )
+
+)

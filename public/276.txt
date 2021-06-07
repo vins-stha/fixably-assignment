@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 276
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11993
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-30 13:34:31
+                )
+
+            [1] => Array
+                (
+                    [id] => 11994
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => Suvi
+                    [status] => 3
+                    [created] => 2020-12-30 13:43:39
+                )
+
+            [2] => Array
+                (
+                    [id] => 11995
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-12-30 13:49:48
+                )
+
+            [3] => Array
+                (
+                    [id] => 11996
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-30 13:55:26
+                )
+
+            [4] => Array
+                (
+                    [id] => 11997
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => R800x
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-12-30 14:02:15
+                )
+
+            [5] => Array
+                (
+                    [id] => 11998
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-12-30 14:12:47
+                )
+
+            [6] => Array
+                (
+                    [id] => 11999
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-30 14:17:42
+                )
+
+            [7] => Array
+                (
+                    [id] => 12000
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => R800x
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-30 14:21:47
+                )
+
+            [8] => Array
+                (
+                    [id] => 12001
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-30 14:29:41
+                )
+
+            [9] => Array
+                (
+                    [id] => 12002
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-12-30 14:34:15
+                )
+
+        )
+
+)

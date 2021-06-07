@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 185
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11083
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-12-02 15:14:58
+                )
+
+            [1] => Array
+                (
+                    [id] => 11084
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => PDX-201
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-12-02 15:21:24
+                )
+
+            [2] => Array
+                (
+                    [id] => 11085
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Air
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-12-02 15:27:21
+                )
+
+            [3] => Array
+                (
+                    [id] => 11086
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-02 15:32:55
+                )
+
+            [4] => Array
+                (
+                    [id] => 11087
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab Pro
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-12-02 15:39:27
+                )
+
+            [5] => Array
+                (
+                    [id] => 11088
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => PDX-201
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-12-02 15:47:48
+                )
+
+            [6] => Array
+                (
+                    [id] => 11089
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-12-02 15:51:10
+                )
+
+            [7] => Array
+                (
+                    [id] => 11090
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-02 15:59:04
+                )
+
+            [8] => Array
+                (
+                    [id] => 11091
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab Pro
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-02 16:06:28
+                )
+
+            [9] => Array
+                (
+                    [id] => 11092
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-12-02 16:10:49
+                )
+
+        )
+
+)

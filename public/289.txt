@@ -1,0 +1,86 @@
+Array
+(
+    [page] => 289
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 14424
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 18:54:02
+                )
+
+            [1] => Array
+                (
+                    [id] => 14425
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 18:56:29
+                )
+
+            [2] => Array
+                (
+                    [id] => 14426
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-28 19:19:48
+                )
+
+            [3] => Array
+                (
+                    [id] => 14427
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-28 19:20:36
+                )
+
+            [4] => Array
+                (
+                    [id] => 14428
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Xperia Tablet Z3 Compact
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-05-21 16:39:23
+                )
+
+            [5] => Array
+                (
+                    [id] => 14429
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Tesla
+                    [deviceBrand] => Model S
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-05-27 17:43:34
+                )
+
+            [6] => Array
+                (
+                    [id] => 14430
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Something
+                    [deviceBrand] => Something
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-05-27 17:44:25
+                )
+
+        )
+
+)

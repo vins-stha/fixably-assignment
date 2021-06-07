@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 90
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10133
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone X
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-11-03 17:00:07
+                )
+
+            [1] => Array
+                (
+                    [id] => 10134
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-11-03 17:09:21
+                )
+
+            [2] => Array
+                (
+                    [id] => 10135
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-11-03 17:16:11
+                )
+
+            [3] => Array
+                (
+                    [id] => 10136
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 8
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-03 17:19:39
+                )
+
+            [4] => Array
+                (
+                    [id] => 10137
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => R800x
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-03 17:28:14
+                )
+
+            [5] => Array
+                (
+                    [id] => 10138
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-03 17:30:28
+                )
+
+            [6] => Array
+                (
+                    [id] => 10139
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-11-03 17:38:33
+                )
+
+            [7] => Array
+                (
+                    [id] => 10140
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => Suvi
+                    [status] => 3
+                    [created] => 2020-11-03 17:44:18
+                )
+
+            [8] => Array
+                (
+                    [id] => 10141
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-03 17:53:34
+                )
+
+            [9] => Array
+                (
+                    [id] => 10142
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-03 17:54:02
+                )
+
+        )
+
+)

@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 143
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10663
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-20 12:36:15
+                )
+
+            [1] => Array
+                (
+                    [id] => 10664
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 8
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-20 12:43:12
+                )
+
+            [2] => Array
+                (
+                    [id] => 10665
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-20 13:03:18
+                )
+
+            [3] => Array
+                (
+                    [id] => 10666
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-11-20 13:15:53
+                )
+
+            [4] => Array
+                (
+                    [id] => 10667
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Z Flip 5G
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-11-20 13:27:22
+                )
+
+            [5] => Array
+                (
+                    [id] => 10668
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-11-20 13:33:39
+                )
+
+            [6] => Array
+                (
+                    [id] => 10669
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy S20
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-11-20 13:48:37
+                )
+
+            [7] => Array
+                (
+                    [id] => 10670
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-11-20 14:04:52
+                )
+
+            [8] => Array
+                (
+                    [id] => 10671
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy S20
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-11-20 14:18:53
+                )
+
+            [9] => Array
+                (
+                    [id] => 10672
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio E
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-11-20 14:34:17
+                )
+
+        )
+
+)

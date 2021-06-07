@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 164
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10873
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy S20
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-26 14:18:29
+                )
+
+            [1] => Array
+                (
+                    [id] => 10874
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-26 14:29:09
+                )
+
+            [2] => Array
+                (
+                    [id] => 10875
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Nexus
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-26 14:39:56
+                )
+
+            [3] => Array
+                (
+                    [id] => 10876
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-26 14:45:53
+                )
+
+            [4] => Array
+                (
+                    [id] => 10877
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Z Flip 5G
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-26 14:52:18
+                )
+
+            [5] => Array
+                (
+                    [id] => 10878
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-26 15:02:10
+                )
+
+            [6] => Array
+                (
+                    [id] => 10879
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy A21
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-11-26 15:10:15
+                )
+
+            [7] => Array
+                (
+                    [id] => 10880
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-26 15:21:09
+                )
+
+            [8] => Array
+                (
+                    [id] => 10881
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-11-26 15:35:11
+                )
+
+            [9] => Array
+                (
+                    [id] => 10882
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-11-26 15:45:14
+                )
+
+        )
+
+)

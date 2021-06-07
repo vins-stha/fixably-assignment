@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 286
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 12093
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-12-31 17:28:40
+                )
+
+            [1] => Array
+                (
+                    [id] => 12094
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-12-31 17:36:01
+                )
+
+            [2] => Array
+                (
+                    [id] => 12095
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Nexus
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-12-31 17:40:09
+                )
+
+            [3] => Array
+                (
+                    [id] => 12096
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-31 17:48:14
+                )
+
+            [4] => Array
+                (
+                    [id] => 12097
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Z Flip 5G
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-31 17:54:11
+                )
+
+            [5] => Array
+                (
+                    [id] => 14399
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 06:53:42
+                )
+
+            [6] => Array
+                (
+                    [id] => 14400
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 07:07:13
+                )
+
+            [7] => Array
+                (
+                    [id] => 14401
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 09:56:28
+                )
+
+            [8] => Array
+                (
+                    [id] => 14402
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => Macbook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 15:12:24
+                )
+
+            [9] => Array
+                (
+                    [id] => 14403
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => Macbook Pro
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2021-04-27 15:25:21
+                )
+
+        )
+
+)

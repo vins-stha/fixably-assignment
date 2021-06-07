@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 117
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10403
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 8
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-12 11:43:01
+                )
+
+            [1] => Array
+                (
+                    [id] => 10404
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-11-12 11:55:25
+                )
+
+            [2] => Array
+                (
+                    [id] => 10405
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-11-12 11:58:09
+                )
+
+            [3] => Array
+                (
+                    [id] => 10406
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => R800x
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-12 12:06:31
+                )
+
+            [4] => Array
+                (
+                    [id] => 10407
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => Mira
+                    [status] => 3
+                    [created] => 2020-11-12 12:16:14
+                )
+
+            [5] => Array
+                (
+                    [id] => 10408
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => Mira
+                    [status] => 3
+                    [created] => 2020-11-12 12:17:06
+                )
+
+            [6] => Array
+                (
+                    [id] => 10409
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-12 12:30:15
+                )
+
+            [7] => Array
+                (
+                    [id] => 10410
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio 505
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-12 12:33:34
+                )
+
+            [8] => Array
+                (
+                    [id] => 10411
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio E
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-12 12:42:03
+                )
+
+            [9] => Array
+                (
+                    [id] => 10412
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-12 12:45:50
+                )
+
+        )
+
+)

@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 45
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9683
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-10-20 15:14:13
+                )
+
+            [1] => Array
+                (
+                    [id] => 9684
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => PDX-201
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-10-20 15:24:07
+                )
+
+            [2] => Array
+                (
+                    [id] => 9685
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-20 15:29:34
+                )
+
+            [3] => Array
+                (
+                    [id] => 9686
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone X
+                    [technician] => Suvi
+                    [status] => 3
+                    [created] => 2020-10-20 15:34:32
+                )
+
+            [4] => Array
+                (
+                    [id] => 9687
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-20 15:40:43
+                )
+
+            [5] => Array
+                (
+                    [id] => 9688
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => PDX-201
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-10-20 15:46:42
+                )
+
+            [6] => Array
+                (
+                    [id] => 9689
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-10-20 15:59:29
+                )
+
+            [7] => Array
+                (
+                    [id] => 9690
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab Pro
+                    [technician] => Mira
+                    [status] => 3
+                    [created] => 2020-10-20 16:04:33
+                )
+
+            [8] => Array
+                (
+                    [id] => 9691
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => X1a
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-10-20 16:11:21
+                )
+
+            [9] => Array
+                (
+                    [id] => 9692
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-20 16:19:06
+                )
+
+        )
+
+)

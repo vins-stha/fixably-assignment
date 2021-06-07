@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 238
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11613
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-12-17 15:10:21
+                )
+
+            [1] => Array
+                (
+                    [id] => 11614
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio E
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-12-17 15:13:31
+                )
+
+            [2] => Array
+                (
+                    [id] => 11615
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Pro
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-12-17 15:22:11
+                )
+
+            [3] => Array
+                (
+                    [id] => 11616
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy S20
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-12-17 15:31:58
+                )
+
+            [4] => Array
+                (
+                    [id] => 11617
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => X1a
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-17 15:38:58
+                )
+
+            [5] => Array
+                (
+                    [id] => 11618
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy A21
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-12-17 15:55:05
+                )
+
+            [6] => Array
+                (
+                    [id] => 11619
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-17 16:00:29
+                )
+
+            [7] => Array
+                (
+                    [id] => 11620
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-17 16:06:15
+                )
+
+            [8] => Array
+                (
+                    [id] => 11621
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-17 16:17:33
+                )
+
+            [9] => Array
+                (
+                    [id] => 11622
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio 505
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-12-17 16:23:56
+                )
+
+        )
+
+)

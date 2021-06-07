@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 80
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10033
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 8
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-29 17:32:22
+                )
+
+            [1] => Array
+                (
+                    [id] => 10034
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => R800x
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-29 17:37:13
+                )
+
+            [2] => Array
+                (
+                    [id] => 10035
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-10-29 17:43:43
+                )
+
+            [3] => Array
+                (
+                    [id] => 10036
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => Suvi
+                    [status] => 3
+                    [created] => 2020-10-29 17:48:28
+                )
+
+            [4] => Array
+                (
+                    [id] => 10037
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-10-29 17:54:04
+                )
+
+            [5] => Array
+                (
+                    [id] => 10038
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-02 10:00:51
+                )
+
+            [6] => Array
+                (
+                    [id] => 10039
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => R800x
+                    [technician] => Anniina
+                    [status] => 3
+                    [created] => 2020-11-02 10:17:48
+                )
+
+            [7] => Array
+                (
+                    [id] => 10040
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-11-02 10:38:37
+                )
+
+            [8] => Array
+                (
+                    [id] => 10041
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-02 10:53:07
+                )
+
+            [9] => Array
+                (
+                    [id] => 10042
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy A21
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-02 11:24:38
+                )
+
+        )
+
+)

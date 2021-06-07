@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 100
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10233
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-05 13:20:40
+                )
+
+            [1] => Array
+                (
+                    [id] => 10234
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => PDX-201
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-11-05 13:30:05
+                )
+
+            [2] => Array
+                (
+                    [id] => 10235
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-05 13:38:34
+                )
+
+            [3] => Array
+                (
+                    [id] => 10236
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone X
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-11-05 13:52:53
+                )
+
+            [4] => Array
+                (
+                    [id] => 10237
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-05 14:01:58
+                )
+
+            [5] => Array
+                (
+                    [id] => 10238
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-05 14:05:41
+                )
+
+            [6] => Array
+                (
+                    [id] => 10239
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-05 14:21:12
+                )
+
+            [7] => Array
+                (
+                    [id] => 10240
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-11-05 14:35:52
+                )
+
+            [8] => Array
+                (
+                    [id] => 10241
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab A
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-05 14:43:38
+                )
+
+            [9] => Array
+                (
+                    [id] => 10242
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-11-05 14:49:20
+                )
+
+        )
+
+)

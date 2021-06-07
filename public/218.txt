@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 218
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11413
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-12-10 15:00:15
+                )
+
+            [1] => Array
+                (
+                    [id] => 11414
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Z Flip 5G
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-10 15:03:57
+                )
+
+            [2] => Array
+                (
+                    [id] => 11415
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-10 15:11:07
+                )
+
+            [3] => Array
+                (
+                    [id] => 11416
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-10 15:17:08
+                )
+
+            [4] => Array
+                (
+                    [id] => 11417
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Mira
+                    [status] => 3
+                    [created] => 2020-12-10 15:20:39
+                )
+
+            [5] => Array
+                (
+                    [id] => 11418
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-12-10 15:25:03
+                )
+
+            [6] => Array
+                (
+                    [id] => 11419
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-10 15:31:44
+                )
+
+            [7] => Array
+                (
+                    [id] => 11420
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-10 15:37:59
+                )
+
+            [8] => Array
+                (
+                    [id] => 11421
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-10 15:45:29
+                )
+
+            [9] => Array
+                (
+                    [id] => 11422
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPhone 12 Pro Max
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-12-10 15:48:06
+                )
+
+        )
+
+)

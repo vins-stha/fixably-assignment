@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 122
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 10453
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => Pekka
+                    [status] => 3
+                    [created] => 2020-11-12 17:31:13
+                )
+
+            [1] => Array
+                (
+                    [id] => 10454
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Katri
+                    [status] => 3
+                    [created] => 2020-11-12 17:37:14
+                )
+
+            [2] => Array
+                (
+                    [id] => 10455
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-11-12 17:43:30
+                )
+
+            [3] => Array
+                (
+                    [id] => 10456
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => X1a
+                    [technician] => 
+                    [status] => 4
+                    [created] => 2020-11-12 17:46:23
+                )
+
+            [4] => Array
+                (
+                    [id] => 10457
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-12 17:55:17
+                )
+
+            [5] => Array
+                (
+                    [id] => 10458
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-11-13 10:13:08
+                )
+
+            [6] => Array
+                (
+                    [id] => 10459
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-13 10:23:19
+                )
+
+            [7] => Array
+                (
+                    [id] => 10460
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Himiko
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-11-13 10:36:27
+                )
+
+            [8] => Array
+                (
+                    [id] => 10461
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => VGN-TX2
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-11-13 10:50:04
+                )
+
+            [9] => Array
+                (
+                    [id] => 10462
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-11-13 11:04:06
+                )
+
+        )
+
+)

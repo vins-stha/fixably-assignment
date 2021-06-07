@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 212
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 11353
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-09 17:13:58
+                )
+
+            [1] => Array
+                (
+                    [id] => 11354
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-09 17:21:36
+                )
+
+            [2] => Array
+                (
+                    [id] => 11355
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio 505
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-09 17:23:07
+                )
+
+            [3] => Array
+                (
+                    [id] => 11356
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Scorpion
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-12-09 17:31:55
+                )
+
+            [4] => Array
+                (
+                    [id] => 11357
+                    [deviceType] => Phone
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => PDX-201
+                    [technician] => Seppo
+                    [status] => 3
+                    [created] => 2020-12-09 17:40:55
+                )
+
+            [5] => Array
+                (
+                    [id] => 11358
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab A
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-12-09 17:44:00
+                )
+
+            [6] => Array
+                (
+                    [id] => 11359
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-09 17:50:28
+                )
+
+            [7] => Array
+                (
+                    [id] => 11360
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad 2
+                    [technician] => Teppo
+                    [status] => 3
+                    [created] => 2020-12-09 17:58:02
+                )
+
+            [8] => Array
+                (
+                    [id] => 11361
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-12-10 10:00:23
+                )
+
+            [9] => Array
+                (
+                    [id] => 11362
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => Suvi
+                    [status] => 3
+                    [created] => 2020-12-10 10:09:45
+                )
+
+        )
+
+)

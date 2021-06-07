@@ -1,0 +1,119 @@
+Array
+(
+    [page] => 21
+    [total] => 2887
+    [results] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9443
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Vaio E
+                    [technician] => 
+                    [status] => 1
+                    [created] => 2020-10-13 10:05:28
+                )
+
+            [1] => Array
+                (
+                    [id] => 9444
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab Pro
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-10-13 10:15:49
+                )
+
+            [2] => Array
+                (
+                    [id] => 9445
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Sony
+                    [deviceBrand] => Tsx03
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-13 10:21:55
+                )
+
+            [3] => Array
+                (
+                    [id] => 9446
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab A
+                    [technician] => Iida
+                    [status] => 3
+                    [created] => 2020-10-13 10:25:52
+                )
+
+            [4] => Array
+                (
+                    [id] => 9447
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-10-13 10:34:44
+                )
+
+            [5] => Array
+                (
+                    [id] => 9448
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab Pro
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-10-13 10:42:23
+                )
+
+            [6] => Array
+                (
+                    [id] => 9449
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => MacBook Air
+                    [technician] => Matti
+                    [status] => 3
+                    [created] => 2020-10-13 10:50:54
+                )
+
+            [7] => Array
+                (
+                    [id] => 9450
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => Galaxy Tab S
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-10-13 11:01:47
+                )
+
+            [8] => Array
+                (
+                    [id] => 9451
+                    [deviceType] => Laptop
+                    [deviceManufacturer] => Samsung
+                    [deviceBrand] => RV720
+                    [technician] => 
+                    [status] => 2
+                    [created] => 2020-10-13 11:10:38
+                )
+
+            [9] => Array
+                (
+                    [id] => 9452
+                    [deviceType] => Tablet
+                    [deviceManufacturer] => Apple
+                    [deviceBrand] => iPad Mini 4
+                    [technician] => Pasi
+                    [status] => 3
+                    [created] => 2020-10-13 11:18:56
+                )
+
+        )
+
+)
